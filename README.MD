@@ -1,4 +1,12 @@
 
+HOW TO USE:
+
+```
+local fetch = require '@fivem-lua-fetch.server.fetch'
+```
+
+
+
 EXAMPLE: 
 
 ```
